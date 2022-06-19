@@ -1,4 +1,5 @@
 #pragma once
+
 #ifndef _FindOutlier_H_
 
 #define _FindOutlier_H_
