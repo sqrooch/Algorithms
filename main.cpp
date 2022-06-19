@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-
 #include "FindOutlier.h"
 
 using namespace std;
