@@ -1,8 +1,8 @@
 #pragma once
 
-#ifndef _FindOutlier_H_
+#ifndef _FINDOUTLIER_H_
 
-#define _FindOutlier_H_
+#define _FINDOUTLIER_H_
 /*
 The function takes an array (which will be at least 3 long, but can be very large) containing integers.
 The array either consists entirely of odd integers, or consists entirely of even integers, with the exception of one integer N.
@@ -13,8 +13,8 @@ Should return: 11
 {160, 3, 1719, 19, 11, 13, -21}
 Should return: 160
 */
-int FindOutlier(std::vector<int> arr);
+int find_outlier(std::vector<int> arr);
 
-#endif // !_FindOutlier_H_
+#endif // !_FINDOUTLIER_H_
 
 

@@ -18,12 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="FindOutlier.cpp">
+    <ClCompile Include="find_outlier.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FindOutlier.h">
+    <ClInclude Include="find_outlier.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
