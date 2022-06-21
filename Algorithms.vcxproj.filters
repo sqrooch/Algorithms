@@ -21,9 +21,15 @@
     <ClCompile Include="find_outlier.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="compare_str_end.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="find_outlier.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="compare_str_end.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
